@@ -1,0 +1,5 @@
+#忽略掉file1.txt
+file1.txt
+
+#忽略掉.o后缀文件
+*.o
